@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1525961693 source:d:\sergio ariel limachi ramos 1b\sergio ariel limachi ramos 1b\funciones.c
+	<stdio.h>
+	"funciones.h"
+
+1525961410 d:\sergio ariel limachi ramos 1b\sergio ariel limachi ramos 1b\funciones.h
+
+1525961576 source:d:\sergio ariel limachi ramos 1b\sergio ariel limachi ramos 1b\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
